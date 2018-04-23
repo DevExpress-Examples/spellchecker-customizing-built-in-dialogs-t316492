@@ -1,0 +1,1 @@
+@Html.DevExpress().SpellChecker(SpellCheckerHelper.SCSettings).GetHtml()

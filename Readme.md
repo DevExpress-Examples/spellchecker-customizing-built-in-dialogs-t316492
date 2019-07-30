@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # SpellChecker - Customizing built-in dialogs
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t316492)**
+**[[Run Online]](https://codecentral.devexpress.com/t316492/)**
 <!-- run online end -->
 
 

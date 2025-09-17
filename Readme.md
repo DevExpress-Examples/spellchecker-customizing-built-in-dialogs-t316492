@@ -1,6 +1,6 @@
 # ASP.NET MVC SpellChecker - Customize built-in dialogs
 
-This example customizes built-in spell check dialogs in ASP.NET MVC Spell Checker.
+This example customizes built-in spell check dialogs in [ASP.NET MVC Spell Checker](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.MVCxSpellChecker).
 
 ## Implementation Details
 
@@ -39,3 +39,4 @@ settings.SettingsForms.SpellCheckOptionsFormAction = "CustomSpellCheckOptionsFor
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+

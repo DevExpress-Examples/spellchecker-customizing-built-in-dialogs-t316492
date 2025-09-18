@@ -1,12 +1,14 @@
 # ASP.NET MVC SpellChecker - Customize built-in dialogs
 
-This example customizes built-in spell check dialogs in [ASP.NET MVC Spell Checker](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.MVCxSpellChecker).
+This example customizes built-in spell check dialogs in the [ASP.NET MVC Spell Checker](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.MVCxSpellChecker).
+
 
 ## Implementation Details
 
 The DevExpress ASP.NET MVC Spell Checker ships with two built-in forms:
 
-1. **SpellCheckForm** allows users to accept/reject spelling suggestions and update a custom dictionary with new words.
+1. **SpellCheckForm** allows users to accept/reject spelling suggestions and update the dictionary with new words.
+
 2. **SpellCheckOptionsForm** allows users to configure spell check options.
 
 To render custom **SpellCheckForm** and **SpellCheckOptionsForm**, use [SpellCheckerSettings.SettingsForms.SpellCheckFormAction](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.MVCxSpellCheckerFormsSettings.SpellCheckFormAction) and [SpellCheckerSettings.SettingsForms.SpellCheckOptionsFormAction](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.MVCxSpellCheckerFormsSettings.SpellCheckOptionsFormAction) properties:
